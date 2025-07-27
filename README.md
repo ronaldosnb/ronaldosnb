@@ -1,8 +1,8 @@
 <h4 align="center">Desenvolvedor Backend | Técnico pelo Senai</h4>
 
-###
 
-<br clear="both">
+
+
 
 <div align="center">
   <a href="ronaldosnb@gmail.com" target="_blank">
@@ -16,14 +16,14 @@
   </a>
 </div>
 
-###
+#
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ronaldosnb&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldosnb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+## Linguagens
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
 </div>
 
-###
+## Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
