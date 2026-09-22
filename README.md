@@ -60,13 +60,7 @@
 <h3 align="left">📬 Entre em contato</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ronaldosnb/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/ronaldosnb07">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X" />
-  </a>
-  <a href="mailto:ronaldosnbatista@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/ronaldosnb/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /></a>
+  <a href="https://x.com/ronaldosnb07"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X" /></a>
+  <a href="mailto:ronaldosnbatista@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" /></a>
 </div>
