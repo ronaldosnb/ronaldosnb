@@ -1,15 +1,14 @@
 # Opa! Chega mais, eu sou o Ronaldo 👋
 
-**Desenvolvedor Full Stack Jr** focado em back-end e automação de processos. Construo APIs, aplicações web e automações que tiram trabalho manual do caminho.
+**Desenvolvedor Full Stack Jr** focado em back-end, APIs e aplicações web.
 
 ### 🚀 Sobre mim
 
-- 🔭 Dev de Sistemas Jr na **EcoPower - Energia Solar**, no setor de Inteligência e Automação
-- ⚙️ Desenvolvo automações em Python (Playwright e Selenium) que enviam e acompanham projetos fotovoltaicos em 4 concessionárias de energia e emitem ARTs no CREA
-- ⏱️ Essas automações economizam **~1.000 horas/mês** de trabalho manual
-- 📊 Criei a plataforma interna que mede esse ganho (React, Tailwind, Node.js e MongoDB)
+- 🔭 Dev de Sistemas Jr na **EcoPower - Energia Solar**
+- ⚙️ Desenvolvo sistemas que integram e automatizam processos com concessionárias de energia e o CREA, economizando **~1.000 horas/mês** de trabalho manual
+- 📊 Desenvolvo plataformas full stack internas com React, Tailwind, Node.js e MongoDB
 - 🎓 Sistemas de Informação na UNIFEB · Técnico em Desenvolvimento de Sistemas pelo SENAI
-- 💼 Aberto a vagas júnior em **back-end, full stack e automação** (presencial, híbrido ou remoto)
+- 💼 Aberto a vagas júnior em **back-end e full stack**
 
 ### 💻 Tech Stack
 
@@ -21,10 +20,6 @@
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="Express" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="25" alt="Flask" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="25" alt="Prisma" /><br /><br />
-
-  <strong>Automação</strong><br />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" height="25" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" height="25" alt="Selenium" /><br /><br />
 
   <strong>Frontend</strong><br />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="TypeScript" />
